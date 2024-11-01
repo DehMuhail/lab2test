@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orangery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="orangery.xsd">
+    <Flower id="P001">
+        <Name>Rose</Name>
+        <Soil>soil</Soil>
+        <Origin>Europe</Origin>
+        <VisualParameters>
+            <StemColor>Green</StemColor>
+            <LeafColor>Dark Green</LeafColor>
+            <AverageSize>1.2</AverageSize>
+        </VisualParameters>
+        <GrowingTips>
+            <Temperature>20.5</Temperature>
+            <Lighting>light-loving</Lighting>
+            <Watering>1</Watering>
+        </GrowingTips>
+        <Multiplying>by cuttings</Multiplying>
+    </Flower>
+    <Flower id="P002">
+        <Name>Cactus</Name>
+        <Soil>soil</Soil>
+        <Origin>South America</Origin>
+        <VisualParameters>
+            <StemColor>Green</StemColor>
+            <LeafColor>Light Green</LeafColor>
+            <AverageSize>0.3</AverageSize>
+        </VisualParameters>
+        <GrowingTips>
+            <Temperature>30</Temperature>
+            <Lighting>light-loving</Lighting>
+            <Watering>100</Watering>
+        </GrowingTips>
+        <Multiplying>by seeds</Multiplying>
+    </Flower>
+    <Flower id="P003">
+        <Name>Tulip</Name>
+        <Soil>chernozem podzolic</Soil>
+        <Origin>Central Asia</Origin>
+        <VisualParameters>
+            <StemColor>Green</StemColor>
+            <LeafColor>Bright Green</LeafColor>
+            <AverageSize>0.5</AverageSize>
+        </VisualParameters>
+        <GrowingTips>
+            <Temperature>15</Temperature>
+            <Lighting>shade-tolerant</Lighting>
+            <Watering>200</Watering>
+        </GrowingTips>
+        <Multiplying>by seeds</Multiplying>
+    </Flower>
+</Orangery>

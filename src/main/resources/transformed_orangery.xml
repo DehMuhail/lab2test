@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><GroupedFlowers>
+    <Group>
+        <Origin>Europe</Origin>
+        <FlowersByOrigin>
+            <Flower id="P001">
+                <Name>Rose</Name>
+                <Soil>soil</Soil>
+                <VisualParameters>
+                    <StemColor>Green</StemColor>
+                    <LeafColor>Dark Green</LeafColor>
+                    <AverageSize>1.2</AverageSize>
+                </VisualParameters>
+                <GrowingTips>
+                    <Temperature>20.5</Temperature>
+                    <Lighting>light-loving</Lighting>
+                    <Watering>1</Watering>
+                </GrowingTips>
+                <Multiplying>by cuttings</Multiplying>
+            </Flower>
+        </FlowersByOrigin>
+    </Group>
+    <Group>
+        <Origin>South America</Origin>
+        <FlowersByOrigin>
+            <Flower id="P002">
+                <Name>Cactus</Name>
+                <Soil>soil</Soil>
+                <VisualParameters>
+                    <StemColor>Green</StemColor>
+                    <LeafColor>Light Green</LeafColor>
+                    <AverageSize>0.3</AverageSize>
+                </VisualParameters>
+                <GrowingTips>
+                    <Temperature>30</Temperature>
+                    <Lighting>light-loving</Lighting>
+                    <Watering>100</Watering>
+                </GrowingTips>
+                <Multiplying>by seeds</Multiplying>
+            </Flower>
+        </FlowersByOrigin>
+    </Group>
+    <Group>
+        <Origin>Central Asia</Origin>
+        <FlowersByOrigin>
+            <Flower id="P003">
+                <Name>Tulip</Name>
+                <Soil>chernozem podzolic</Soil>
+                <VisualParameters>
+                    <StemColor>Green</StemColor>
+                    <LeafColor>Bright Green</LeafColor>
+                    <AverageSize>0.5</AverageSize>
+                </VisualParameters>
+                <GrowingTips>
+                    <Temperature>15</Temperature>
+                    <Lighting>shade-tolerant</Lighting>
+                    <Watering>200</Watering>
+                </GrowingTips>
+                <Multiplying>by seeds</Multiplying>
+            </Flower>
+        </FlowersByOrigin>
+    </Group>
+</GroupedFlowers>
